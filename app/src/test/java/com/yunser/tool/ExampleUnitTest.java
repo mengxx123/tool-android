@@ -1,4 +1,4 @@
-package com.yunser.note;
+package com.yunser.tool;
 
 import org.junit.Test;
 

@@ -1,8 +1,7 @@
-package com.yunser.note;
+package com.yunser.tool;
 
 import android.annotation.TargetApi;
 import android.app.FragmentManager;
-import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
 import android.preference.Preference;
